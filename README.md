@@ -88,7 +88,7 @@
                             <td id="tr">August 2022</td>
                             <td id="tr">No expiration</td>
                             <td id="tr">8RVYAKGTRDJZ</td>
-                            <td id="tr"><a href="https://www.coursera.org/account/accomplishments/certificate/8RVYAKGTRDJZ">Credential URL</a></td>
+                            <td id="tr"><a href="https://www.coursera.org/account/accomplishments/certificate/8RVYAKGTRDJZ" target="_blank" rel="noopener noreferrer">Credential URL</a></td>
                         </tr>
                         <tr>
                             <td id="tr">Programming in Python</td>
@@ -96,7 +96,7 @@
                             <td id="tr">August 2022</td>
                             <td id="tr">No expiration</td>
                             <td id="tr">S9WTYT8RETL8</td>
-                            <td id="tr"><a href="https://www.coursera.org/account/accomplishments/certificate/S9WTYT8RETL8">Credential URL</a></td>
+                            <td id="tr"><a href="https://www.coursera.org/account/accomplishments/certificate/S9WTYT8RETL8" target="_blank" rel="noopener noreferrer">Credential URL</a></td>
                         </tr>
                     </div>
                 </div>
