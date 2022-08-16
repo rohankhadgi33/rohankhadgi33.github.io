@@ -40,7 +40,7 @@
                     <h5>Create, Style and Deploy Personal Website(HTML/CSS/Bootstrap)</h5>
                     <ul>
                         <li>Used HTML,CSS and Bootstrap to create and style page</li>
-                        <li>Used GitHub to deploy my pesronal website</li>
+                        <li>Used GitHub to create my personal website</li>
                     </ul>
                 </div>
             </div>
