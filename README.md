@@ -12,7 +12,7 @@
             <div class="row" id="info">
                 <div class="col"><h1>Rohan Khadgi</h1></div>
                 <div class="row">
-                    <div class="col"><h3>781-420-5477 | khadgirohan100@gmail.com | <a href="https://www.linkedin.com/in/rohan-khadgi/"> linkedin</a> | <a href="https://github.com/rohankhadgi33">github</a> </h3></div>
+                    <div class="col"><h3>781-420-5477 | khadgirohan100@gmail.com | <a href="https://www.linkedin.com/in/rohan-khadgi/" target="_blank" rel="noopener noreferrer"> linkedin</a> | <a href="https://github.com/rohankhadgi33" target="_blank" rel="noopener noreferrer">github</a> </h3></div>
                 </div>
             </div>
             <div class="row">
