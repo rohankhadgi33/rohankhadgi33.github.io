@@ -7,21 +7,22 @@
 
 }
 .body{
-    background-color:antiquewhite;    
+    background-color:antiquewhite;
+    color: black;    
 }
 h1{
-    color:blue;
+    color:rgb(185, 19, 19);
     text-align: center;
     margin: auto;
 }
 h2{
-    color:grey;
+    color: rgb(45, 29, 134);
     text-align: center;
     margin: auto;
 }
 #info{
-    font-size: medium;
-    color:green;
+    font-size: small;
+    color:rgb(13, 117, 13);
     text-align: center;
     margin: auto;
 }
