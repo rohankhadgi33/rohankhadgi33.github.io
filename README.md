@@ -40,7 +40,7 @@
                     <h5>Create, Style and Deploy Personal Website(HTML/CSS/Bootstrap)</h5>
                     <ul>
                         <li>Used HTML,CSS and Bootstrap to create and style page</li>
-                        <li>Used GitHub to create my personal website</li>
+                        <li>Used github to create personal website</li>
                     </ul>
                 </div>
             </div>
@@ -97,6 +97,14 @@
                             <td id="tr">No expiration</td>
                             <td id="tr">S9WTYT8RETL8</td>
                             <td id="tr"><a href="https://www.coursera.org/account/accomplishments/certificate/S9WTYT8RETL8" target="_blank" rel="noopener noreferrer">Credential URL</a></td>
+                        </tr>
+                        <tr>
+                            <td id="tr">Version Control</td>
+                            <td id="tr">META through Coursera</td>
+                            <td id="tr">August 2022</td>
+                            <td id="tr">No expiration</td>
+                            <td id="tr">QDP6ENFVMVM7</td>
+                            <td id="tr"><a href="https://www.coursera.org/account/accomplishments/certificate/QDP6ENFVMVM7" target="_blank" rel="noopener noreferrer">Credential URL</a></td>
                         </tr>
                     </div>
                 </div>
