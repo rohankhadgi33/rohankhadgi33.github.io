@@ -19,7 +19,7 @@
                 <div class="col"><img src = "photo.jpg" id = "photo"></div>
             </div>
             <div class="row">
-                <div class="col"><h2>About me</h2><p>I am Rohan Khadgi. I am a student at UMASS Boston for Bachelor's Degree in Computer Science. I am looking for opportunity in Software related job or intern.</p></div>
+                <div class="col"><h2>About me</h2><p>Hello, I am Rohan Khadgi. I am a student at UMASS Boston for Bachelor's Degree in Computer Science. I am looking for opportunity in Software related job or intern.</p></div>
             </div>
             <div class="row">
                 <div class="col">
