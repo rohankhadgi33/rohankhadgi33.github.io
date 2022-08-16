@@ -1,0 +1,42 @@
+#photo{
+    border: 2px solid;
+    width: 160px;
+    height: 200px;
+    display:block;
+    margin:auto;
+
+}
+.body{
+    background-color:antiquewhite;    
+}
+h1{
+    color:blue;
+    text-align: center;
+    margin: auto;
+}
+h2{
+    color:grey;
+    text-align: center;
+    margin: auto;
+}
+#info{
+    font-size: medium;
+    color:green;
+    text-align: center;
+    margin: auto;
+}
+table{
+    border: 2px solid;
+}
+#tr{
+    border:1px solid;
+    border-color: black;
+}
+th, td {
+    padding: 4px;
+    text-align: left;
+  }
+
+
+
+
