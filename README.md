@@ -40,9 +40,7 @@
                     <h5>Create, Style and Deploy Personal Website(HTML/CSS/Bootstrap)</h5>
                     <ul>
                         <li>Used HTML,CSS and Bootstrap to create and style page</li>
-                        <li>Leveraged AWS Amplify and Cognito to implement secure authentication and sign up</li>
-                        <li>test coverage of over 70%</li>
-                        <li>Handed off well-documented and easily modifiable code to client</li>
+                        <li>Used GitHub to deploy my pesronal website</li>
                     </ul>
                 </div>
             </div>
