@@ -1,61 +1,126 @@
-#photo{
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#x {
+    margin: 3px;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+
+
+#photo {
     border: 2px solid;
     width: 160px;
     height: 200px;
-    display:block;
-    margin:auto;
+    display: block;
+    margin: auto;
 
 }
-.body{
-    background-color:rgba(77, 84, 160, 0.192);
-    color: black;    
+
+.body {
+    background-image: url(1.jpg);
+    font-size: xx-large;
 }
-h1{
-    color: Black;
-    text-align: center;
-    margin: auto;
+
+#Education {
+    font-size: x-large;
+    padding-top: 5px;
+    margin-top: 5px;
+
 }
-h2{
+
+#TechnologiesandLanguages {
+    font-size: x-large;
+    padding-top: 5px;
+    margin-top: 5px;
+
+}
+
+#LicenseandCertifications {
+    font-size: x-large;
+    padding-top: 5px;
+    margin-top: 5px;
+
+}
+
+h1 {
     color: rgb(45, 29, 134);
     text-align: center;
     margin: auto;
 }
-#info{
+
+h2 {
+    color: rgb(45, 29, 134);
+    text-align: center;
+    margin: auto;
+    font-size: xx-large;
+}
+
+#info {
     font-size: small;
-    color:black;
+    color: black;
     text-align: center;
     margin: auto;
 }
-table{
+
+table {
     text-align: center;
     display: table;
     border: 2px solid;
-    table-layout: auto;
-}
-#tr{
-    border:1px solid;
-    border-color: black;
-}
-th, td {
-    padding: 4px;
-    text-align: center;
-  }
-.wrap {
-    display: table;
-}
-.mainmenu, #ticketRequest {
-    display: table-cell;
-}
-#thanks{
-    width:70%;
-    padding: 2%;
-    text-align: center;
-    margin:auto
+
 }
 
-.card-body{
-    background-color: rgb(209, 207, 209);
+#tr {
+    border: 1px solid;
+    border-color: black;
 }
-.card-title{
+
+th,
+td {
+    padding: 2px;
+    text-align: center;
+}
+
+#thanks {
+    width: 70%;
+    padding: 2%;
+    text-align: center;
+    margin: auto
+}
+
+.card-body {
+    display: inline-block;
+    text-align: left;
+    padding: 10px;
+    margin: 3px;
+    font-size: large;
+}
+
+.card-title {
+    font-size: x-large;
     color: rgb(42, 22, 114);
 }
+
+.card-text {
+    font-size: large;
+}
+
