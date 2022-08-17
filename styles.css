@@ -7,11 +7,11 @@
 
 }
 .body{
-    background-color:antiquewhite;
+    background-color:rgba(77, 84, 160, 0.192);
     color: black;    
 }
 h1{
-    color:rgb(185, 19, 19);
+    color: Black;
     text-align: center;
     margin: auto;
 }
@@ -22,12 +22,15 @@ h2{
 }
 #info{
     font-size: small;
-    color:rgb(13, 117, 13);
+    color:black;
     text-align: center;
     margin: auto;
 }
 table{
+    text-align: center;
+    display: table;
     border: 2px solid;
+    table-layout: auto;
 }
 #tr{
     border:1px solid;
@@ -35,9 +38,24 @@ table{
 }
 th, td {
     padding: 4px;
-    text-align: left;
+    text-align: center;
   }
+.wrap {
+    display: table;
+}
+.mainmenu, #ticketRequest {
+    display: table-cell;
+}
+#thanks{
+    width:70%;
+    padding: 2%;
+    text-align: center;
+    margin:auto
+}
 
-
-
-
+.card-body{
+    background-color: rgb(209, 207, 209);
+}
+.card-title{
+    color: rgb(42, 22, 114);
+}
