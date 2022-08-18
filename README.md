@@ -10,7 +10,7 @@
     <body class="body">
         
             <div class="row">
-                <div class="col-12 col-lg-6">
+                <div class="col">
                     <div class="navbar">
                         <a href="#Projects">Projects</a>
                         <a href="#Education">Education</a>
