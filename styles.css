@@ -1,18 +1,20 @@
 .navbar {
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
+    overflow: -moz-hidden-unscrollable;
+    display: inline;
+    background-color: rgb(136, 156, 63);
+    display: inline;
+    position: relative;
+    text-align: center;
     top: 0;
     width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
-#x {
-    margin: 3px;
-}
+
 
 .navbar a {
-    float: left;
-    display: block;
+    display: inline-block;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -37,6 +39,7 @@
 }
 
 .body {
+    margin: auto;
     background-image: url(1.jpg);
     font-size: xx-large;
 }
@@ -100,18 +103,18 @@ td {
     text-align: center;
 }
 
-#thanks {
-    width: 70%;
-    padding: 2%;
+body #thanks {
     text-align: center;
-    margin: auto
+    margin: auto;
+    color: #ddd;
+    font-size: xx-large;
 }
 
 .card-body {
     display: inline-block;
     text-align: left;
     padding: 10px;
-    margin: 3px;
+    margin: 4px;
     font-size: large;
 }
 
@@ -123,4 +126,3 @@ td {
 .card-text {
     font-size: large;
 }
-
