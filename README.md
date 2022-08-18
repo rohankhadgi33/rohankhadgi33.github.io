@@ -187,13 +187,11 @@
                     </div>
                 </div>
             </div> 
-        </div>    
-        <div class="container">
             <div class="row">
                 <div class="col" id="thanks">
-                    <p>Thank you for visiting!!!</p>
+                    <p>Thanks For Visiting!!!<p>
                 </div>
             </div>
-        </div>           
+        </div>              
     </body>
 </html>
