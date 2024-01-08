@@ -1,0 +1,60 @@
+<style>
+    body {
+        margin: auto;
+        background-image: url(1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #fff;
+        font-size: 16px;
+    }
+    
+    h1, h2, h5 {
+        color: #fff;
+        text-align: center;
+        margin: auto;
+    }
+
+    .body {
+        margin: auto;
+        background-image: url(1.jpg);
+        font-size: xx-large;
+    }
+
+    p {
+        font-size: 18px;
+        color: #000;
+    }
+
+    .lead {
+        font-size: 16px;
+        color: #fff;
+        font-family: 'Arial', sans-serif;
+    }
+
+    .lead a {
+        color: #fff;
+        text-decoration: underline;
+    }
+
+    .card-title {
+        font-size: 20px;
+        color: rgb(42, 22, 114);
+    }
+
+    .card-text, ul, li {
+        font-size: 20px;
+        color: #000;
+    }
+
+    #thanks {
+        color: #fff; /* Change the color to white */
+        font-size: 24px;
+    }
+
+    #Education, #TechnologiesandLanguages, #LicenseandCertifications {
+        font-size: 20px;
+        padding-top: 5px;
+        margin-top: 5px;
+    }
+</style>
