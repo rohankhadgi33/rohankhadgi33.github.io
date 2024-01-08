@@ -1,7 +1,7 @@
 <style>
     body {
         margin: auto;
-        background-image: url('./1.jpg');
+        background-image: url('1.jpg');
         background-size: cover;
         background-position: center;
         color: #fff; /* Set text color to white or another suitable color for better contrast */
