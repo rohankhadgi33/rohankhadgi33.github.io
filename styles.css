@@ -1,0 +1,35 @@
+<style>
+    body {
+        margin: auto;
+        background-image: url('./1.jpg');
+        background-size: cover;
+        background-position: center;
+        color: #fff; /* Set text color to white or another suitable color for better contrast */
+        font-size: 16px;
+    }
+    
+    h1, h2, h5 {
+        color: rgb(45, 29, 134);
+        text-align: center;
+        margin: auto;
+    }
+
+    p {
+        font-size: 18px; /* Adjust the paragraph font size as needed */
+        color: #000; /* Set the color for paragraphs */
+    }
+
+    .lead {
+        font-size: 16px; /* Adjust the lead font size as needed */
+        color: #000; /* Set the color for lead text */
+    }
+
+    .card-title {
+        font-size: 20px; /* Adjust the card title font size as needed */
+        color: rgb(42, 22, 114);
+    }
+
+    .card-text {
+        font-size: 16px; /* Adjust the card text font size as needed */
+    }
+</style>
